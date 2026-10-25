@@ -1,0 +1,6 @@
+{
+  "name": "Mystic Battlefield - Gods vs Demons RPG",
+  "description": "An epic mythological action RPG where you forge a champion for the Indian Gods or Demon Horde, wage massive frontline warfare, level up, and unleash divine astras and demonic wrath.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
